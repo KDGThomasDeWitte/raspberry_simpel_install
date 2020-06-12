@@ -1,8 +1,8 @@
 # to unset a value : ""
 
 # pi
-pi_password             = "bestBoy"                      # password set with salt 'pilog' (optional -> keep "raspberry")
-pi_hostname             = "BESTBOY"                      # the raspberry pi hostname (optional -> keep "raspberrypi")
+pi_password             = "pi"                      # password set with salt 'pilog' (optional -> keep "raspberry")
+pi_hostname             = "raspberrypi"                      # the raspberry pi hostname (optional -> keep "raspberrypi")
 pi_timezone             = "Europe/Paris"                 # cocorico | the raspberry pi timezone (optional -> keep "Europe/Paris")
 
 # image
